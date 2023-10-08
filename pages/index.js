@@ -49,10 +49,7 @@ export default function Home() {
       </Head>
 
       <h1 className="py-6 text-center font-bold text-2xl">
-        Dream something with{" "}
-        <a href="https://replicate.com/stability-ai/stable-diffusion">
-          Stable Diffusion
-        </a>
+        تدلل بس...
       </h1>
 
       <form className="w-full flex" onSubmit={handleSubmit}>
